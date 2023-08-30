@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319780839720",
+    "project_id": "priorityclick",
+    "storage_bucket": "priorityclick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319780839720:android:b1ebadf9e00ce8ffd2b01d",
+        "android_client_info": {
+          "package_name": "com.example.priorityclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319780839720-g3ikabd5deu2po7u53cl00alrmfted9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvy4U0t0pXueQj7WvDMK7NV1b58uCosEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319780839720-g3ikabd5deu2po7u53cl00alrmfted9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
