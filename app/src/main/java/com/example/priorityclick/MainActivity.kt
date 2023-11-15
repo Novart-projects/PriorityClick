@@ -508,23 +508,7 @@ class MainActivity : ComponentActivity() {
                 )
             }
         }
-    }
-
-//    @Composable
-//    fun MyProfileScreen() {
-//        Surface(
-//            modifier = Modifier.fillMaxSize(),
-//            color = MaterialTheme.colorScheme.primary
-//
-//        ) {
-//            Column(
-//                verticalArrangement = Arrangement.Center,
-//                horizontalAlignment = CenterHorizontally
-//            ) {
-//                Text(text = "PROFILE", fontSize = 30.sp)
-//            }
-//        }
-//    }
+    } 
 
 
     @RequiresApi(Build.VERSION_CODES.O)
